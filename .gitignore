@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+.venv/
+env/
+uv.lock
+
+reports_storage/

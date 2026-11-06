@@ -1,0 +1,13 @@
+{
+    "last_name": "Иванов",
+    "first_name": "Иван",
+    "birth_date": "2027-01-01",
+    "phone": "89991234567",
+    "email": "ivanov@example.com",
+    "problems": [
+        {
+            "reason": "нет доступа к сети",
+            "detection_time": "2026-11-06T12:00:00"
+        }
+    ]
+}

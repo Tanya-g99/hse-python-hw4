@@ -1,0 +1,13 @@
+{
+    "last_name": "гнатенко",
+    "first_name": "татьяна",
+    "birth_date": "2003-11-23",
+    "phone": "+7(916)123-45-67",
+    "email": "gnatenko.t@example.com",
+    "problems": [
+        {
+            "reason": "не приходят письма",
+            "detection_time": "2026-11-06T10:00:00"
+        }
+    ]
+}
